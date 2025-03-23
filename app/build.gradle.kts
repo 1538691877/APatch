@@ -27,7 +27,7 @@ apksign {
 }
 
 android {
-    namespace = "me.bmax.sk"
+    namespace = "me.bmax.apatch"
 
     buildTypes {
         debug {
